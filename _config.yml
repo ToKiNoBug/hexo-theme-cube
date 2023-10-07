@@ -106,21 +106,11 @@ music_setting:
 # you'd better place your music and image, lrc to another site, and use url instead of path
 # if you don't want to use this widget, just make that `music: `
 music:
-  - title: Dear friends
-    author: TRIPLANE
-    source: http://cube-1252774894.cosgz.myqcloud.com/music/source/TRIPLANE - Dear friends.mp3
-    lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/Dear friends - TRIPLANE.lrc
-    image: http://cube-1252774894.cosgz.myqcloud.com/music/image/TRIPLANE - Dear friends.jpg
-  - title: Butter-Fly
-    author: 和田光司
-    source: http://cube-1252774894.cosgz.myqcloud.com/music/source/和田光司 - Butter-Fly (ピアノヴァージョン).mp3
-    lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/Butter-Fly (ピアノヴァージョン) - 和田光司.lrc
-    image: http://cube-1252774894.cosgz.myqcloud.com/music/image/和田光司 - Butter-Fly (ピアノヴァージョン).jpg
-  - title: 宵闇花火
-    author: 葉月ゆら
-    source: http://cube-1252774894.cosgz.myqcloud.com/music/source/葉月ゆら - 宵闇花火.mp3
-    lrc: http://cube-1252774894.cosgz.myqcloud.com/music/lrc/宵闇花火 - 葉月ゆら.lrc
-    image: http://cube-1252774894.cosgz.myqcloud.com/music/image/葉月ゆら - 宵闇花火.jpg
+  - title: 最美好的前程 Прекрасное далеко
+    author: 尤·恩津（词），叶·克瑞拉托夫（曲），薛范（译配）
+    source: https://josephliu.xyz/download/website/mp3/prekrasnoe_daleko.mp3
+    lrc: https://josephliu.xyz/download/website/lrc/prekrasnoe_daleko.lrc
+    image: https://josephliu.xyz/download/website/icon/dark_oct.jpg
 
 # before using the comment
 # make use you know how to set the params
