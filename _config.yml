@@ -112,6 +112,29 @@ music:
     lrc: https://josephliu.xyz/download/website/lrc/prekrasnoe_daleko.lrc
     image: https://josephliu.xyz/download/website/icon/black_october.jpg
 
+  - title: 伊里奇 Ильич
+    author: АнимациЯ
+    source: https://josephliu.xyz/download/website/mp3/ilichi.mp3
+    #lrc:
+    image: https://josephliu.xyz/download/website/icon/ilichi.jpg
+
+  - title: 战斗仍将继续 И вновь продолжается бой
+    author: 尼·多布龙拉沃夫（词），阿·巴赫慕托娃（曲）
+    source: https://josephliu.xyz/download/website/mp3/i_vnov_prodolzhaetsya_boii.mp3
+    #lrc:
+    image: https://josephliu.xyz/download/website/icon/sablin.jpg
+
+  - title: 两世之间 Between the Two Worlds
+    author: Project Mili
+    source: https://josephliu.xyz/download/website/mp3/between_two_worlds.mp3
+    #lrc:
+    image: https://josephliu.xyz/download/website/icon/between_the_two_worlds.jpg
+
+
+    #https://josephliu.xyz/download/website/icon/gagalin.jpg
+
+    #
+
 # before using the comment
 # make use you know how to set the params
 comment:
